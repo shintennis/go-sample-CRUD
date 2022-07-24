@@ -1,0 +1,702 @@
+2022/06/06 14:57:21 todos.go:46: near "from": syntax error
+2022/06/06 14:59:31 todos.go:46: near "from": syntax error
+2022/06/06 15:01:32 todos.go:46: near "from": syntax error
+2022/06/06 15:27:48 todos.go:101: near "=": syntax error
+2022/06/06 15:28:11 todos.go:101: near "=": syntax error
+2022/06/06 15:30:09 todos.go:101: near "=": syntax error
+2022/06/06 15:31:43 todos.go:101: near "=": syntax error
+2022/06/06 15:44:48 todos.go:97: near "=": syntax error
+2022/06/12 19:51:40 route_auth.go:42: sql: expected 6 destination arguments in Scan, not 5
+2022/06/12 19:51:40 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:61)
+2022/06/12 19:52:11 route_auth.go:42: sql: expected 6 destination arguments in Scan, not 5
+2022/06/12 19:52:11 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:61)
+2022/06/12 20:11:09 route_auth.go:42: sql: expected 6 destination arguments in Scan, not 5
+2022/06/12 20:11:09 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:61)
+2022/06/12 21:08:41 route_auth.go:42: sql: expected 6 destination arguments in Scan, not 5
+2022/06/12 21:08:41 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:61)
+2022/06/15 22:35:25 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:35:25 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:35:25 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:35:25 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:35:26 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:35:26 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:35:26 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:35:26 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:35:26 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:35:26 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:35:26 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:35:26 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:35:26 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:35:26 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:35:27 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:35:27 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:35:27 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:35:27 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:35:27 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:35:27 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:35:27 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:35:27 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:35:27 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:35:27 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:35:27 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:35:27 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:35:28 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:35:28 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:35:28 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:35:28 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:35:28 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:35:28 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:35:28 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:35:28 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:35:28 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:35:28 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:35:28 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:35:28 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:35:28 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:35:28 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:35:30 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:35:30 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:35:30 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:35:30 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:35:30 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:35:30 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:35:30 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:35:30 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:35:30 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:35:30 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:35:31 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:35:31 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:35:31 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:35:31 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:35:32 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:35:32 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:35:32 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:35:32 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:35:32 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:35:32 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:35:32 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:35:32 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:35:32 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:35:32 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:35:32 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:35:32 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:35:32 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:35:32 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:35:37 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:35:37 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:35:37 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:35:37 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:35:37 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:35:37 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:35:37 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:35:37 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:35:37 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:35:37 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:35:37 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:35:37 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:36:20 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:36:20 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:36:21 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:36:21 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:36:21 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:36:21 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:36:21 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:36:21 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:36:21 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:36:21 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:36:21 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:36:21 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:36:21 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:36:21 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:36:22 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:36:22 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:36:22 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:36:22 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:36:22 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:36:22 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:36:22 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:36:22 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:36:23 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:36:23 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:36:23 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:36:23 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:36:23 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:36:23 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:36:28 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:36:28 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:36:28 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:36:28 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:36:28 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:36:28 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:36:28 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:36:28 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:36:28 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:36:28 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:36:28 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:36:28 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:40:34 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:40:34 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:40:34 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:40:34 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:40:34 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:40:34 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:40:34 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:40:34 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:40:34 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:40:34 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:40:34 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:40:34 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:40:35 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:40:35 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:40:35 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:40:35 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:40:36 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:40:36 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:40:36 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:40:36 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:40:36 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:40:36 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:40:36 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:40:36 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:40:36 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:40:36 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:40:41 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:40:41 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:40:41 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:40:41 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:40:41 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:40:41 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:40:41 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:40:41 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:40:41 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:40:41 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:40:41 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:40:41 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:40:41 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:40:41 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:40:48 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:40:48 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:40:48 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:40:48 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:40:48 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:40:48 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:40:48 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:40:48 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:40:48 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:40:48 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:40:48 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:40:48 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:43:21 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:43:21 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:43:21 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:43:21 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:43:21 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:43:21 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:43:21 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:43:21 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:43:21 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:43:21 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:43:21 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:43:21 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:43:22 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:43:22 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:43:22 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:43:22 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:43:22 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:43:22 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:43:22 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:43:22 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:43:22 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:43:22 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:43:22 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:43:22 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:43:22 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:43:22 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:43:27 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:43:27 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:43:27 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:43:27 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:43:27 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:43:27 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:43:27 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:43:27 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:43:27 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:43:27 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:43:27 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:43:27 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:43:27 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:43:27 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:49:17 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:49:17 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:49:17 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:49:17 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:49:17 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:49:17 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:49:17 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:49:17 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:49:17 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:49:17 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:49:17 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:49:17 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:49:17 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:49:17 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:49:17 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:49:17 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:49:17 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:49:17 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:49:17 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:49:17 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:49:18 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:49:18 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:49:18 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:49:18 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:49:18 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:49:18 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:49:18 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:49:18 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:49:18 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:49:18 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:49:18 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:49:18 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:49:18 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:49:18 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:49:18 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:49:18 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:49:18 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:49:18 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:49:18 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:49:18 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:49:24 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:49:24 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:49:24 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:49:24 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:49:24 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:49:24 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:49:24 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:49:24 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:49:24 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:49:24 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:49:24 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:49:24 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:49:24 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:49:24 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:49:24 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:49:24 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:49:24 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:49:24 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:49:24 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:49:24 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:49:54 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:49:54 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:49:54 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:49:54 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:49:54 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:49:54 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:49:54 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:49:54 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:49:54 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:49:54 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:49:54 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:49:54 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:49:54 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:49:54 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:49:54 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:49:54 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:49:54 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:49:54 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:49:54 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:49:54 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:50:55 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:50:55 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:50:55 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:50:55 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:50:55 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:50:55 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:50:55 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:50:55 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:50:55 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:50:55 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:50:55 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:50:55 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:50:55 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:50:55 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:50:55 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:50:55 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:50:55 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:50:55 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:50:55 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:50:55 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:55:45 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:55:45 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:55:45 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:55:45 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:55:45 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:55:45 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:55:45 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:55:45 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:55:46 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:55:46 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:55:46 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:55:46 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:55:46 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:55:46 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:55:46 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:55:46 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:55:46 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:55:46 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:55:46 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:55:46 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:55:47 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:55:47 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:55:47 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:55:47 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:55:47 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:55:47 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:55:47 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:55:47 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:55:47 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:55:47 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:55:47 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:55:47 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:55:47 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:55:47 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:55:47 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:55:47 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:55:47 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:55:47 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:55:47 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:55:47 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:55:52 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:55:52 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:55:52 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:55:52 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:55:52 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:55:52 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:55:52 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:55:52 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:55:52 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:55:52 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:55:52 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:55:52 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:55:52 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:55:52 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:55:53 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:55:53 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:55:53 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:55:53 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:55:53 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:55:53 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:55:59 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:55:59 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:55:59 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:55:59 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:55:59 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:55:59 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:55:59 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:55:59 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:55:59 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:55:59 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:55:59 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:55:59 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:55:59 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:55:59 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:55:59 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:55:59 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:55:59 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:55:59 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:55:59 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:55:59 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:56:42 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:56:42 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:56:42 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:56:42 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:56:42 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:56:42 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:56:42 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:56:42 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:56:43 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:56:43 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:56:43 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:56:43 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:56:43 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:56:43 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:56:43 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:56:43 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:56:43 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:56:43 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:56:44 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:56:44 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:56:44 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:56:44 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:56:44 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:56:44 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:56:44 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:56:44 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:56:44 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:56:44 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:56:44 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:56:44 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:56:44 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:56:44 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:56:44 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:56:44 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:56:44 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:56:44 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:56:44 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:56:44 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:56:49 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:56:49 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:56:49 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:56:49 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:56:49 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:56:49 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:56:49 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:56:49 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:56:49 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:56:49 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:56:49 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:56:49 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:56:49 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:56:49 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:56:49 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:56:49 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:56:49 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:56:49 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:56:49 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:56:49 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:57:20 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:57:20 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:57:20 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:57:20 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:57:20 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:57:20 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:57:20 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:57:20 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:57:20 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:57:20 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:57:20 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:57:20 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:57:20 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:57:20 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:57:21 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:57:21 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:57:21 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:57:21 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 22:57:21 route_auth.go:52: sql: no rows in result set
+2022/06/15 22:57:21 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:71)
+2022/06/15 23:07:27 route_auth.go:55: sql: no rows in result set
+2022/06/15 23:07:27 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:74)
+2022/06/15 23:07:27 route_auth.go:55: sql: no rows in result set
+2022/06/15 23:07:27 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:74)
+2022/06/15 23:07:27 route_auth.go:55: sql: no rows in result set
+2022/06/15 23:07:27 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:74)
+2022/06/15 23:07:27 route_auth.go:55: sql: no rows in result set
+2022/06/15 23:07:27 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:74)
+2022/06/15 23:07:27 route_auth.go:55: sql: no rows in result set
+2022/06/15 23:07:27 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:74)
+2022/06/15 23:07:27 route_auth.go:55: sql: no rows in result set
+2022/06/15 23:07:27 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:74)
+2022/06/15 23:07:27 route_auth.go:55: sql: no rows in result set
+2022/06/15 23:07:27 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:74)
+2022/06/15 23:07:27 route_auth.go:55: sql: no rows in result set
+2022/06/15 23:07:27 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:74)
+2022/06/15 23:07:27 route_auth.go:55: sql: no rows in result set
+2022/06/15 23:07:27 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:74)
+2022/06/15 23:07:28 route_auth.go:55: sql: no rows in result set
+2022/06/15 23:07:28 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:74)
+2022/06/15 23:07:28 route_auth.go:55: sql: no rows in result set
+2022/06/15 23:07:28 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:74)
+2022/06/15 23:07:28 route_auth.go:55: sql: no rows in result set
+2022/06/15 23:07:28 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:74)
+2022/06/15 23:07:28 route_auth.go:55: sql: no rows in result set
+2022/06/15 23:07:28 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:74)
+2022/06/15 23:07:28 route_auth.go:55: sql: no rows in result set
+2022/06/15 23:07:28 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:74)
+2022/06/15 23:07:28 route_auth.go:55: sql: no rows in result set
+2022/06/15 23:07:28 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:74)
+2022/06/15 23:07:29 route_auth.go:55: sql: no rows in result set
+2022/06/15 23:07:29 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:74)
+2022/06/15 23:07:29 route_auth.go:55: sql: no rows in result set
+2022/06/15 23:07:29 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:74)
+2022/06/15 23:07:29 route_auth.go:55: sql: no rows in result set
+2022/06/15 23:07:29 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:74)
+2022/06/15 23:07:29 route_auth.go:55: sql: no rows in result set
+2022/06/15 23:07:29 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:74)
+2022/06/15 23:07:34 route_auth.go:55: sql: no rows in result set
+2022/06/15 23:07:34 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:74)
+2022/06/15 23:07:34 route_auth.go:55: sql: no rows in result set
+2022/06/15 23:07:34 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:74)
+2022/06/15 23:07:34 route_auth.go:55: sql: no rows in result set
+2022/06/15 23:07:34 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:74)
+2022/06/15 23:07:34 route_auth.go:55: sql: no rows in result set
+2022/06/15 23:07:34 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:74)
+2022/06/15 23:07:34 route_auth.go:55: sql: no rows in result set
+2022/06/15 23:07:34 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:74)
+2022/06/15 23:07:34 route_auth.go:55: sql: no rows in result set
+2022/06/15 23:07:34 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:74)
+2022/06/15 23:07:34 route_auth.go:55: sql: no rows in result set
+2022/06/15 23:07:34 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:74)
+2022/06/15 23:07:34 route_auth.go:55: sql: no rows in result set
+2022/06/15 23:07:34 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:74)
+2022/06/15 23:07:34 route_auth.go:55: sql: no rows in result set
+2022/06/15 23:07:34 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:74)
+2022/06/15 23:07:34 route_auth.go:55: sql: no rows in result set
+2022/06/15 23:07:34 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:74)
+2022/06/15 23:08:04 route_auth.go:55: sql: no rows in result set
+2022/06/15 23:08:04 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:74)
+2022/06/15 23:08:04 route_auth.go:55: sql: no rows in result set
+2022/06/15 23:08:04 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:74)
+2022/06/15 23:08:04 route_auth.go:55: sql: no rows in result set
+2022/06/15 23:08:04 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:74)
+2022/06/15 23:08:04 route_auth.go:55: sql: no rows in result set
+2022/06/15 23:08:04 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:74)
+2022/06/15 23:08:04 route_auth.go:55: sql: no rows in result set
+2022/06/15 23:08:04 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:74)
+2022/06/15 23:08:04 route_auth.go:55: sql: no rows in result set
+2022/06/15 23:08:04 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:74)
+2022/06/15 23:08:04 route_auth.go:55: sql: no rows in result set
+2022/06/15 23:08:04 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:74)
+2022/06/15 23:08:04 route_auth.go:55: sql: no rows in result set
+2022/06/15 23:08:04 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:74)
+2022/06/15 23:08:04 route_auth.go:55: sql: no rows in result set
+2022/06/15 23:08:04 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:74)
+2022/06/15 23:08:04 route_auth.go:55: sql: no rows in result set
+2022/06/15 23:08:04 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:74)
+2022/06/15 23:14:21 route_auth.go:55: sql: no rows in result set
+2022/06/15 23:14:21 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:74)
+2022/06/15 23:15:02 route_auth.go:55: sql: no rows in result set
+2022/06/15 23:15:02 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:74)
+2022/06/15 23:15:02 route_auth.go:55: sql: no rows in result set
+2022/06/15 23:15:02 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:74)
+2022/06/15 23:15:02 route_auth.go:55: sql: no rows in result set
+2022/06/15 23:15:02 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:74)
+2022/06/15 23:15:02 route_auth.go:55: sql: no rows in result set
+2022/06/15 23:15:02 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:74)
+2022/06/15 23:15:02 route_auth.go:55: sql: no rows in result set
+2022/06/15 23:15:02 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:74)
+2022/06/15 23:15:02 route_auth.go:55: sql: no rows in result set
+2022/06/15 23:15:02 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:74)
+2022/06/15 23:15:02 route_auth.go:55: sql: no rows in result set
+2022/06/15 23:15:02 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:74)
+2022/06/15 23:15:02 route_auth.go:55: sql: no rows in result set
+2022/06/15 23:15:02 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:74)
+2022/06/15 23:15:02 route_auth.go:55: sql: no rows in result set
+2022/06/15 23:15:02 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:74)
+2022/06/15 23:15:03 route_auth.go:55: sql: no rows in result set
+2022/06/15 23:15:03 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:74)
+2022/06/15 23:15:03 route_auth.go:55: sql: no rows in result set
+2022/06/15 23:15:03 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:74)
+2022/06/15 23:15:03 route_auth.go:55: sql: no rows in result set
+2022/06/15 23:15:03 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:74)
+2022/06/15 23:15:03 route_auth.go:55: sql: no rows in result set
+2022/06/15 23:15:03 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:74)
+2022/06/15 23:15:03 route_auth.go:55: sql: no rows in result set
+2022/06/15 23:15:03 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:74)
+2022/06/15 23:15:04 route_auth.go:55: sql: no rows in result set
+2022/06/15 23:15:04 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:74)
+2022/06/15 23:15:04 route_auth.go:55: sql: no rows in result set
+2022/06/15 23:15:04 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:74)
+2022/06/15 23:15:04 route_auth.go:55: sql: no rows in result set
+2022/06/15 23:15:04 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:74)
+2022/06/15 23:15:04 route_auth.go:55: sql: no rows in result set
+2022/06/15 23:15:04 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:74)
+2022/06/15 23:15:04 route_auth.go:55: sql: no rows in result set
+2022/06/15 23:15:04 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:74)
+2022/06/15 23:15:09 route_auth.go:55: sql: no rows in result set
+2022/06/15 23:15:09 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:74)
+2022/06/15 23:15:09 route_auth.go:55: sql: no rows in result set
+2022/06/15 23:15:09 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:74)
+2022/06/15 23:15:09 route_auth.go:55: sql: no rows in result set
+2022/06/15 23:15:09 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:74)
+2022/06/15 23:15:09 route_auth.go:55: sql: no rows in result set
+2022/06/15 23:15:09 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:74)
+2022/06/15 23:15:09 route_auth.go:55: sql: no rows in result set
+2022/06/15 23:15:09 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:74)
+2022/06/15 23:15:09 route_auth.go:55: sql: no rows in result set
+2022/06/15 23:15:09 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:74)
+2022/06/15 23:15:09 route_auth.go:55: sql: no rows in result set
+2022/06/15 23:15:09 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:74)
+2022/06/15 23:15:09 route_auth.go:55: sql: no rows in result set
+2022/06/15 23:15:09 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:74)
+2022/06/15 23:15:09 route_auth.go:55: sql: no rows in result set
+2022/06/15 23:15:09 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:74)
+2022/06/15 23:15:09 route_auth.go:55: sql: no rows in result set
+2022/06/15 23:15:09 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:74)
+2022/06/15 23:15:39 route_auth.go:55: sql: no rows in result set
+2022/06/15 23:15:39 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:74)
+2022/06/15 23:15:39 route_auth.go:55: sql: no rows in result set
+2022/06/15 23:15:39 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:74)
+2022/06/15 23:15:39 route_auth.go:55: sql: no rows in result set
+2022/06/15 23:15:39 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:74)
+2022/06/15 23:15:39 route_auth.go:55: sql: no rows in result set
+2022/06/15 23:15:39 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:74)
+2022/06/15 23:15:39 route_auth.go:55: sql: no rows in result set
+2022/06/15 23:15:39 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:74)
+2022/06/15 23:15:40 route_auth.go:55: sql: no rows in result set
+2022/06/15 23:15:40 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:74)
+2022/06/15 23:15:40 route_auth.go:55: sql: no rows in result set
+2022/06/15 23:15:40 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:74)
+2022/06/15 23:15:40 route_auth.go:55: sql: no rows in result set
+2022/06/15 23:15:40 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:74)
+2022/06/15 23:15:40 route_auth.go:55: sql: no rows in result set
+2022/06/15 23:15:40 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:74)
+2022/06/15 23:15:40 route_auth.go:55: sql: no rows in result set
+2022/06/15 23:15:40 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:74)
+2022/06/15 23:15:51 route_auth.go:55: sql: no rows in result set
+2022/06/15 23:15:51 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:74)
+2022/06/15 23:15:52 route_auth.go:55: sql: no rows in result set
+2022/06/15 23:15:52 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:74)
+2022/06/15 23:15:52 route_auth.go:55: sql: no rows in result set
+2022/06/15 23:15:52 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:74)
+2022/06/15 23:15:52 route_auth.go:55: sql: no rows in result set
+2022/06/15 23:15:52 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:74)
+2022/06/15 23:15:52 route_auth.go:55: sql: no rows in result set
+2022/06/15 23:15:52 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:74)
+2022/06/15 23:15:52 route_auth.go:55: sql: no rows in result set
+2022/06/15 23:15:52 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:74)
+2022/06/15 23:15:52 route_auth.go:55: sql: no rows in result set
+2022/06/15 23:15:52 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:74)
+2022/06/15 23:15:52 route_auth.go:55: sql: no rows in result set
+2022/06/15 23:15:52 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:74)
+2022/06/15 23:15:52 route_auth.go:55: sql: no rows in result set
+2022/06/15 23:15:52 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:74)
+2022/06/15 23:15:52 route_auth.go:55: sql: no rows in result set
+2022/06/15 23:15:52 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:74)
+2022/06/15 23:20:38 route_auth.go:55: sql: no rows in result set
+2022/06/15 23:20:38 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:74)
+2022/06/15 23:20:38 route_auth.go:55: sql: no rows in result set
+2022/06/15 23:20:38 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:74)
+2022/06/15 23:20:38 route_auth.go:55: sql: no rows in result set
+2022/06/15 23:20:38 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:74)
+2022/06/15 23:20:38 route_auth.go:55: sql: no rows in result set
+2022/06/15 23:20:38 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:74)
+2022/06/15 23:20:38 route_auth.go:55: sql: no rows in result set
+2022/06/15 23:20:38 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:74)
+2022/06/15 23:20:38 route_auth.go:55: sql: no rows in result set
+2022/06/15 23:20:38 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:74)
+2022/06/15 23:20:38 route_auth.go:55: sql: no rows in result set
+2022/06/15 23:20:38 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:74)
+2022/06/15 23:20:38 route_auth.go:55: sql: no rows in result set
+2022/06/15 23:20:38 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:74)
+2022/06/15 23:20:38 route_auth.go:55: sql: no rows in result set
+2022/06/15 23:20:38 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:74)
+2022/06/15 23:20:40 route_auth.go:55: sql: no rows in result set
+2022/06/15 23:20:40 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:74)
+2022/06/15 23:20:40 route_auth.go:55: sql: no rows in result set
+2022/06/15 23:20:40 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:74)
+2022/06/15 23:20:40 route_auth.go:55: sql: no rows in result set
+2022/06/15 23:20:40 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:74)
+2022/06/15 23:20:40 route_auth.go:55: sql: no rows in result set
+2022/06/15 23:20:40 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:74)
+2022/06/15 23:20:40 route_auth.go:55: sql: no rows in result set
+2022/06/15 23:20:40 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:74)
+2022/06/15 23:20:40 route_auth.go:55: sql: no rows in result set
+2022/06/15 23:20:40 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:74)
+2022/06/15 23:20:40 route_auth.go:55: sql: no rows in result set
+2022/06/15 23:20:40 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:74)
+2022/06/15 23:20:40 route_auth.go:55: sql: no rows in result set
+2022/06/15 23:20:40 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:74)
+2022/06/15 23:20:40 route_auth.go:55: sql: no rows in result set
+2022/06/15 23:20:40 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:74)
+2022/06/15 23:20:40 route_auth.go:55: sql: no rows in result set
+2022/06/15 23:20:40 server.go:3197: http: superfluous response.WriteHeader call from todo_go/app/controllers.authenticate (route_auth.go:74)
